@@ -7,6 +7,8 @@ It demonstrates how to manage authentication tokens, handle session expiry, and 
 
 The app is built using **React 17** and **Create React App** tooling.
 
+[A Full Guide to Implement Secure Session Management & Token Refresh in ReactJs](https://www.sevensquaretech.com/secure-session-management-token-refresh-reactjs-github-code/)
+
 ---
 
 ## Tech Stack
